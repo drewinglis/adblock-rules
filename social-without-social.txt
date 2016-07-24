@@ -1,0 +1,8 @@
+facebook.com###listsNav
+facebook.com###stream_pagelet
+facebook.com###pagelet_trending_tags_and_topics
+facebook.com###appsNav
+facebook.com###interestsNav
+facebook.com###pagesNav
+twitter.com###timeline
+twitter.com##.Trends.module.trends
