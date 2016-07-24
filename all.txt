@@ -1,6 +1,6 @@
 ---
 ---
 {% include header.txt name="all" %}
-{% include_relative never-read-the-comments.txt %}
-{% include_relative misc.txt %}
-{% include_relative social-without-social.txt %}
+{% include never-read-the-comments.txt %}
+{% include misc.txt %}
+{% include social-without-social.txt %}

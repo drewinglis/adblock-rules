@@ -1,0 +1,3 @@
+###dsq-app2
+youtube.com###watch-sidebar-discussion
+twitch.tv###right-column

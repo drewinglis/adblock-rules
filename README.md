@@ -7,7 +7,7 @@ internet experience.
 
 [all.txt](./all.txt)
 
-This is a combination of the other three.
+This is a combination of the rest of the feeds.
 
 ## Never Read The Comments
 

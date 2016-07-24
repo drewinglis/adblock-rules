@@ -1,3 +1,4 @@
-###dsq-app2
-youtube.com###watch-sidebar-discussion
-twitch.tv###right-column
+---
+---
+{% include header.txt name="never-read-the-comments" %}
+{% include never-read-the-comments.txt %}
