@@ -1,4 +1,4 @@
-# Adblock Feeds
+# AdBlock Feeds
 
 These are a collection of AdBlock feeds that I've created to have a better
 internet experience.
