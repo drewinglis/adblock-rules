@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Title: drewinglis-{{ include.name }}
+! Last modified: {{ site.time | date_to_string }} 00:00 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/drewinglis/adblock-rules/
+! Licence: https://github.com/drewinglis/adblock-rules/LICENCE.md
+!
+!-----------------------General filters-----------------------!
