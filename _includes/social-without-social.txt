@@ -6,3 +6,4 @@ facebook.com###interestsNav
 facebook.com###pagesNav
 twitter.com###timeline
 twitter.com##.Trends.module.trends
+www.attackpoint.org##.recentdisc
