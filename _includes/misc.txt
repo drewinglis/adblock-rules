@@ -5,4 +5,4 @@ wikia.com###TOP_LEADERBOARD_AB
 wikia.com###WikiaBar
 http://static.adzerk.net/reddit/ads.html?sr=-reddit.com,loggedin&bust2#http://www.reddit.com
 pinterest.com##.ModalManager.Module
-facebook.com###pagelet_ego_pane
+www.facebook.com###pagelet_ego_pane
