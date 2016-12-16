@@ -6,3 +6,4 @@ wikia.com###WikiaBar
 http://static.adzerk.net/reddit/ads.html?sr=-reddit.com,loggedin&bust2#http://www.reddit.com
 pinterest.com##.ModalManager.Module
 www.facebook.com###pagelet_ego_pane
+espn.com###vjs_video_1-fw-flash
